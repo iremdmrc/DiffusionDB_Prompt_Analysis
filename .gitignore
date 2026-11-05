@@ -1,0 +1,12 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Full DiffusionDB metadata file (185 MB, too large for GitHub - see make_sample.py)
+metadata.parquet
+
+# OS files
+.DS_Store
+Thumbs.db
