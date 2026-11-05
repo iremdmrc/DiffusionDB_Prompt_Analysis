@@ -66,9 +66,10 @@ The sample file is already in this repository, so you do **not** need to downloa
 | 3 | Understanding the dataset | Done |
 | 4 | Data cleaning: missing values, duplicates, data types, inconsistent text and artist names, NSFW filter, outliers | Done |
 | 5 | Exploratory data analysis with Pandas (Q1-Q3) | Done |
-| 6 | Data visualization | In progress (Ayse Sule Ekiz) |
-| 7-10 | Interpretation, answers, limitations, conclusion | To do |
-| 11 | References | Done (add visualization sources) |
+| 6 | Data visualization (7 charts, forest theme) | Done (Ayse Sule Ekiz) |
+| 7 | Interpretation of results | Done |
+| 8-10 | Answers, limitations, conclusion | To do |
+| 11 | References | Done |
 
 ---
 
